@@ -1,8 +1,12 @@
+using System;
+using System.Threading;
+using System.Threading.Tasks;
+
 namespace BuildingBlocks.Mongo;
 
 public interface IUnitOfWork : IDisposable
 {
-    Task BeginTransactionAsync(CancellationToken cancellationToken = default);
+    System.Threading.Tasks.Task BeginTransactionAsync(CancellationToken cancellationToken = default);
     Task CommitAsync(CancellationToken cancellationToken = default);
 }
 

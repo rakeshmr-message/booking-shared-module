@@ -1,5 +1,8 @@
 ﻿using BuildingBlocks.EventStoreDB.Serialization;
 using EventStore.Client;
+using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace BuildingBlocks.EventStoreDB.Events;
 

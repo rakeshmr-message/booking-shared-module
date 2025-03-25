@@ -1,3 +1,5 @@
+using System;
+
 namespace BuildingBlocks.Mongo;
 
 public class MongoOptions

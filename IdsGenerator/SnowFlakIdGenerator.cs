@@ -1,5 +1,6 @@
 using Ardalis.GuardClauses;
 using IdGen;
+using System;
 
 namespace BuildingBlocks.IdsGenerator;
 

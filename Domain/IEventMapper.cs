@@ -1,4 +1,5 @@
 using BuildingBlocks.Domain.Event;
+using System.Collections.Generic;
 
 namespace BuildingBlocks.Domain;
 

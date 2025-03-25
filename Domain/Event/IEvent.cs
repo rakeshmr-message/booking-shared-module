@@ -1,5 +1,6 @@
 using MassTransit;
 using MediatR;
+using System;
 
 namespace BuildingBlocks.Domain.Event;
 

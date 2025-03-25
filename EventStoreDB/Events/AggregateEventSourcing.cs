@@ -1,5 +1,6 @@
 ﻿using BuildingBlocks.Domain.Event;
 using BuildingBlocks.Domain.Model;
+using System.Collections.Generic;
 
 namespace BuildingBlocks.EventStoreDB.Events
 {

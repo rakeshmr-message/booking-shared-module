@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace BuildingBlocks.Mongo
 {
+    using System;
     using Web;
 
     public static class Extensions

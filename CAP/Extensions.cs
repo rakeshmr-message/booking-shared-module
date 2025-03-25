@@ -1,4 +1,5 @@
-﻿using System.Text.Encodings.Web;
+﻿using System;
+using System.Text.Encodings.Web;
 using System.Text.Unicode;
 using BuildingBlocks.Utils;
 using BuildingBlocks.Web;

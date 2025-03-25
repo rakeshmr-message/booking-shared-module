@@ -1,3 +1,5 @@
+using System;
+
 namespace BuildingBlocks.Domain.Event;
 
 [Flags]

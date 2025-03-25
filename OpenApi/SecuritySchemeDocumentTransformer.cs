@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.OpenApi;
 using Microsoft.OpenApi.Models;
+using System.Threading;
+using System.Threading.Tasks;
 
 public class SecuritySchemeDocumentTransformer : IOpenApiDocumentTransformer
 {

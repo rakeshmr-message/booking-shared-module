@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json.Serialization;
+using System;
 
 namespace BuildingBlocks.EventStoreDB.Serialization;
 

@@ -1,6 +1,8 @@
 using BuildingBlocks.Exception;
 using FluentValidation;
 using FluentValidation.Results;
+using System.Linq;
+using System.Threading.Tasks;
 using ValidationException = BuildingBlocks.Exception.ValidationException;
 
 namespace BuildingBlocks.Validation

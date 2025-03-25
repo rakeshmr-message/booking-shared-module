@@ -14,6 +14,9 @@ namespace BuildingBlocks.EFCore;
 
 using Humanizer;
 using Microsoft.EntityFrameworkCore.Metadata;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 
 public static class Extensions
 {

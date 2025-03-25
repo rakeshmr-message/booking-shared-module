@@ -1,5 +1,7 @@
 using MagicOnion;
 using MessagePack;
+using System;
+using System.Collections.Generic;
 
 namespace BuildingBlocks.Contracts.Grpc;
 

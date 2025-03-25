@@ -1,3 +1,5 @@
+using System;
+
 namespace BuildingBlocks.Domain.Model;
 
 public abstract class Entity : IEntity

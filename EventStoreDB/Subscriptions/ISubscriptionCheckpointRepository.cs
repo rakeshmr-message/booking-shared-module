@@ -1,4 +1,7 @@
-﻿namespace BuildingBlocks.EventStoreDB.Subscriptions;
+﻿using System.Threading;
+using System.Threading.Tasks;
+
+namespace BuildingBlocks.EventStoreDB.Subscriptions;
 
 public interface ISubscriptionCheckpointRepository
 {
